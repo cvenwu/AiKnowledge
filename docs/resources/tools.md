@@ -16,3 +16,4 @@
 
 - RAGAS：用于评估 RAG 系统的回答质量和检索质量。
 - DeepEval：用于构建 LLM 应用评估用例。
+- [agent-qa](https://vostride.com)：自然语言网页与移动端测试，结合 memidex 持久记忆、经验证的自我改进和 MCP 接入；[配置指南](https://vostride.com/docs/agent-qa/quickstart)于 2026-10-31 核验。
